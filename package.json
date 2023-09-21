@@ -1,0 +1,16 @@
+{
+	"name": "text-manager",
+	"version": "1.0.0",
+	"description": "A library to easy replace keys inside strings",
+	"main": "utils.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"text-management",
+		"replace",
+		"replace-strings"
+	],
+	"author": "Ariel Ignacio Penna",
+	"license": "MIT"
+}
